@@ -1,12 +1,15 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=ESC&textBg=true&desc=Engineering%20Science%20of%20Computing&stroke=FFFFFF&strokeWidth=0&fontColor=FFFFFF&descSize=23&descAlign=50&fontAlign=50&fontSize=101&descAlignY=80)
+# Description
+**ESC is Hansung Science High School's Programming Club.**  
+**[@kdh1707](https://github.com/kdh1707) is a club president, and [@JangUniverse](https://github.com/JangUniverse) is a vice president of club.**  
+**We are trying various things that can only be done in high school.**  
 
-<!--
+# Our Goals
+**1. Make team project for school festival with github.**  
+**2. Develop programs that can help schools.**  
+**3. Clarify your areas of interest about informatics.**
 
-**Here are some ideas to get you started:**
+# Members
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
