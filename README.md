@@ -5,9 +5,9 @@
 **We are trying various things that can only be done in high school.**  
 
 # Our Goals
-**1. Make team project for school festival with github.**  
+**1. Make team projects for school festival with github.**  
 **2. Develop programs that can help schools.**  
-**3. Clarify your areas of interest about informatics.**
+**3. Clarify each area of interest about informatics.**
 
 # Members
 
