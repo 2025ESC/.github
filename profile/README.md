@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=ESC&textBg=true&desc=Engineering%20Science%20of%20Computing&stroke=FFFFFF&strokeWidth=0&fontColor=FFFFFF&descSize=23&descAlign=50&fontAlign=50&fontSize=101&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ESC&fontColor=000000&fontSize=100&stroke=FFFFFF&strokeWidth=2&desc=Engineering%20Science%20of%20Computer&descAlignY=65)
 # Description
 **ESC is Hansung Science High School's Programming Club.**  
 **[@kdh1707](https://github.com/kdh1707) is a club president, and [@JangUniverse](https://github.com/JangUniverse) is a vice president of club.**  
 **We are trying various things that can only be done in high school.**  
 
 # Our Goals
-**1. Make team project for school festival with github.**  
+**1. Make team projects for school festival with github.**  
 **2. Develop programs that can help schools.**  
-**3. Clarify your areas of interest about informatics.**
+**3. Clarify each area of interest about informatics.**
 
 # Members
 
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=000000&fontSize=100&stroke=FFFFFF&strokeWidth=2&descAlignY=65&section=footer)
